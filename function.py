@@ -12,9 +12,9 @@ def createFile(fileName, entry):
 
 strInput = """{
 'Name':'Arnab Kumar Nandy',
-'ENTPID':'arnab.kumar.nandy',
-'Location':'BDC7A',
-'Project':'Agile DC'
+'ID':'arnab.nandy',
+'Location':'BLR',
+'Project':'DC'
 }
 """
 
