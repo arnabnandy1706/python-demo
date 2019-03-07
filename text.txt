@@ -1,0 +1,5 @@
+HOSTNAME=master.UCSBANG6.com
+CPU=2
+MEM=4GB
+IP=10.211.203.91
+OS=Ubuntu Linux
